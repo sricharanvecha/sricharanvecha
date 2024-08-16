@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sri Charan</h1>
 <h3 align="center">A passionate fullstack Developer from Arizona</h3>
 
-- 🔭 I’m currently a **graduate student** pursuing my masters at Arizona State University
+- 🔭 I'm a **recent graduate** with a Master's degree from Arizona State University.
 
 - 🌱 I’m currently learning **React, React Native**
 
